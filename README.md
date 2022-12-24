@@ -1,5 +1,5 @@
 # aop-part2-chapter02 - 로또 번호 추첨기
-
+clone
 
 
 # 목차
